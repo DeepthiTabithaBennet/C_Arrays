@@ -14,7 +14,7 @@ int main(){
 	}
 
 	for(i = 0; i < size; i++){
-		for(j = i + 1; j<size;){
+		for(j = i + 1; j < size;){
 			if(arr[i] == arr[j]){
 				for(k = j; k < size; k++){
 					arr[k] = arr[k + 1];
