@@ -1,8 +1,8 @@
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
+
 ## C_Arrays
 
 ### Please leave a 🌟 before you fork / clone this repo! 😃
-
-### Language : C
 
 ### List of Programs :
 * Identifying the Largest and Smallest element in an input Array
