@@ -8,6 +8,7 @@
 * Deleting an Element at a Specified Position in an Input Array
 * Identifying the Largest and Smallest element in an Input Array
 * Computing the Maximum Absolute Difference of an Input Array
+* Merging Two Arrays using Pointers
 * Mode of an Input Array
 * Counting the number of Duplicate elements in an Input Array
 * Removing the Prime Numbers from an Input Array
