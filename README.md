@@ -12,3 +12,4 @@
 * Counting the number of Duplicate elements in an Input Array
 * Removing the Prime Numbers from an Input Array
 * Removing the Duplicate elements from an Input Array
+* Calculating the Standard Deviation of the elements in an Input Array
