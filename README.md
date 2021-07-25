@@ -10,4 +10,5 @@
 * Computing the Maximum Absolute Difference of an Input Array
 * Mode of an Input Array
 * Counting the number of Duplicate elements in an Input Array
-* Removing the Duplicate elements in an Input Array
+* Removing the Prime Numbers from an Input Array
+* Removing the Duplicate elements from an Input Array
