@@ -3,13 +3,13 @@
 int main(){
     int arr[50], i, pos, n;
   
-		printf("Input the size of array : ");
-		scanf("%d", &n);
+    printf("Input the size of array : ");
+    scanf("%d", &n);
    
-		printf("Input %d elements in the array :\n", n);
-		for(i = 0; i < n; i++){
-			scanf("%d", &arr[i]);
-		} 
+    printf("Input %d elements in the array :\n", n);
+    for(i = 0; i < n; i++){
+        scanf("%d", &arr[i]);
+    } 
 
 	printf("\nInput the position where to delete : ");
 	scanf("%d", &pos);
