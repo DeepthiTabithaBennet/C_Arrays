@@ -17,6 +17,7 @@ int Mode(int a[], int n){
         }
     }
     printf("\nThe value %d occurs %d times", MaxVal, MaxCt);
+    printf("\nMode : %d", MaxVal);
     return MaxVal, MaxCt;
 }
 
@@ -29,6 +30,6 @@ int main(){
     for (int i = 0; i < n; i++){
         scanf("%d", &a[i]);
     }
-    printf("\nMode is %d", Mode(a,n));
+    Mode(a,n);
     return 0;
 }
