@@ -9,7 +9,7 @@ int main(){
 	printf("Enter size of the array : ");
 	scanf("%d", &size);
 
-	printf("Enter elements in array : ");
+	printf("Enter elements in array :\n");
 	for(i = 0; i < size; i++){
 		scanf("%d", &arr[i]);
 	}
@@ -23,7 +23,7 @@ int main(){
 		}
 	}
 
-	printf("\nDuplicate elements: %d", (count + 1));
+	printf("\nNumber of Duplicate elements: %d", (count + 1));
 	
 	return 0;
 }
